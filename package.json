@@ -1,0 +1,26 @@
+{
+  "name": "@drifted/env",
+  "version": "0.0.1",
+  "description": "env module that allows me to establish conventions",
+  "homepage": "https://github.com/driftless-group/env#readme",
+  "bugs": {
+    "url": "https://github.com/driftless-group/env/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/driftless-group/env.git"
+  },
+  "license": "UNLICENSED",
+  "author": "Scott Ballantyne",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -w"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2"
+  },
+  "devDependencies": {
+    "mocha": "^11.7.5"
+  }
+}
