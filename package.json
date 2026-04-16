@@ -1,6 +1,6 @@
 {
   "name": "@drifted/env",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "env module that allows me to establish conventions",
   "homepage": "https://github.com/driftless-group/env#readme",
   "bugs": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/driftless-group/env.git"
   },
-  "license": "UNLICENSED",
+  "license": "GPL-3.0",
   "author": "Scott Ballantyne",
   "type": "commonjs",
   "main": "index.js",
